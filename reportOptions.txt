@@ -1,0 +1,5 @@
+The Songs Report Menu options hm
+Enter: 
+1. Print all films in Ascending order of the Title
+2. Search for a film
+3. Exit reports options and return to the main songs menu
