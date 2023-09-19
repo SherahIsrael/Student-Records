@@ -153,7 +153,7 @@ def delete(student_id):
     return redirect(url_for('index'))
 
 if __name__ == "__main__":
-    app.run(host="127.0.0.1", port=8080, debug=True
+    app.run(debug=True
     #ssl_context=(R'C:\Users\Shera\Documents\cert.pem', R'C:\Users\Shera\Documents\key.pem'),
     )
     # context = ('local.crt', 'local.key')#certificate and key files
